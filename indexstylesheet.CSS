@@ -1,0 +1,57 @@
+.navbar{
+    position:relative;
+    top:0px;
+}
+body{
+    background-color: lightslategray;
+    color:black;
+}
+.bio{
+    border-radius: 10%;
+    padding:15px;
+    background-color:#415A77;
+}
+.jumbotron{
+    background-color:#0D1B2A;
+    color:#E0E1DD;
+    padding:30px;
+}
+.career, .life{
+    padding-right:7px;
+}
+.footer{
+    padding:50px;
+    background-color:#E0E1DD;
+}
+.rowing{
+    background-color:#415A77;
+}
+.navbar{
+    background-color:#0D1B2A;
+}
+.hobbies{
+    background-color:#1B263B;
+    padding:20px;
+    border-radius: 10%;
+    color:#E0E1DD;
+}
+.rowing{
+    background-color:#1B263B;
+    padding:20px;
+    border-radius: 10%;
+    color:#E0E1DD;
+}
+.career{
+    background-color:#1B263B;
+    padding:20px;
+    border-radius: 10%;
+    color:#E0E1DD;
+}
+.box{
+    background-color: #415A77;
+    padding: 15px;
+}
+.box2{
+    background-color: #778DA9;
+    padding: 15px;
+}
